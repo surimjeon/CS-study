@@ -1,6 +1,6 @@
 - OS에서 프로세스 상태변화
 
-![아무거나](/%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94.png)
+![아무거나](./%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94.png)
 
 출처:[https://devhan.tistory.com/m/103](https://devhan.tistory.com/m/103)
 
