@@ -3,7 +3,7 @@
     - 스케줄러: 여기 READY 큐에서 어떤 프로세스가 cpu에 실행되어야할지 선택
 - = dispatcher: ready→ running으로 상태가 바뀌면서 선택된 프로세스에게 **CPU를 할당하는 역할**
     
-    ![[https://www.crocus.co.kr/1406](https://www.crocus.co.kr/1406) 출처](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06063d71-d678-4780-b9e3-1a35b0a2e8e7/Untitled.png)
+    ![구조2](/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B5%AC%EC%A1%B02.png)
     
     출처: [https://www.crocus.co.kr/1406](https://www.crocus.co.kr/1406) 출처
     
